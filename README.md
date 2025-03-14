@@ -41,4 +41,4 @@
 6. Clear all saved pairs when needed.  
 
 **Color Contrast Studio** is a smart, user-friendly tool that makes designing accessible and visually striking color schemes effortless! 🚀🎨
-### ✨Would you like to experience our delightful project live? 🚀👀 https://maliknaseerahmed.github.io/Color_Contrast_Studio
+### ✨Would you like to experience our delightful project live? 🚀👀 <a href="https://maliknaseerahmed.github.io/Color_Contrast_Studio" target="_blank">Color Contrast Studio</a>
